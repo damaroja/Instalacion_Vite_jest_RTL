@@ -30,7 +30,7 @@ module.exports = {
 ```
 
 5. Opcional, pero eventualmente necesario, crear Jest config y setup:
-__jest.config.js___
+__jest.config.js__
 ```
 module.exports = {
     testEnvironment: 'jest-environment-jsdom',
