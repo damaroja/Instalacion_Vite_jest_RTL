@@ -1,3 +1,6 @@
+# Instalación y configuracion de Jest + React Testing Library
+## En proyectos de React + Vite
+
 1. Instalaciones:
 ```
 yarn add --dev jest babel-jest @babel/preset-env @babel/preset-react 
