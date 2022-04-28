@@ -12,7 +12,7 @@ yarn add --dev @testing-library/react @types/jest jest-environment-jsdom
 yarn add --dev whatwg-fetch
 ```
 
-3. Actualizar los scripts del __package.json___
+3. Actualizar los scripts del __package.json__
 ```
 "scripts: {
   ...
