@@ -44,5 +44,7 @@ __jest.setup.js__
 // En caso de necesitar la implementación del FetchAPI
 import 'whatwg-fetch'; // <-- yarn add whatwg-fetch
 ```
+Renombrar el archivo babel.config.js a babel.config.cjs
+Renombrar el archivo jest.config.js a jest.config.cjs
 
 
